@@ -1,2 +1,7 @@
-# Hello_world
-My first GitHub repository _ bsc cs 2 nd sem student learning to code 
+
+#Hi, I'm Esha 👋
+
+🚀 BSc Computer Science - 2nd Semester  
+💻 Learning: C++, DSA, Web Development  
+🎯 Goal: Software Engineer at Google/【entity-Microsoft¦canonical_name=Microsoft】  
+📍 Bangalore, India
