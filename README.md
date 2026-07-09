@@ -14,3 +14,4 @@
 - ✅ Clean repo structure - Day 5
 - 🚀 Total commits: 11+
 - 🎯 Consistency > Perfection
+- ✅ `Prime.cpp` - Day 6
