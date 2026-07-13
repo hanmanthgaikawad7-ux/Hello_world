@@ -15,3 +15,16 @@
 - 🚀 Total commits: 11+
 - 🎯 Consistency > Perfection
 - ✅ `Prime.cpp` - Day 6
+# Hi, I'm Esha 👋
+
+🚀 BSc Computer Science - 2nd Sem Student  
+📚 Learning to Code in C++  
+💻 My GitHub Learning Journey
+
+## What I'm Learning
+- C++ Basics
+- Git & GitHub
+- Problem Solving
+
+## Connect with me
+I'm starting my coding journey!
