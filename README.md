@@ -28,3 +28,14 @@
 
 ## Connect with me
 I'm starting my coding journey!
+# BSc CS C++ Practice
+
+Hi! I'm a 2nd sem BSc CS student learning to code.
+This repo has my C++ programs for PGCET MCA 2026 preparation.
+
+## What's Inside
+- `C++-Basics`: Hello World, Even-Odd, Prime, Factorial
+- Coming Soon: Arrays, Strings, Patterns
+
+### Goals
+Preparing for Karnataka PGCET MCA Exam 2026
